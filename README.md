@@ -171,6 +171,25 @@ No cloud, no tracking, no nonsense — just your vault and your control.
 
 ---
 
+## 📸 Screenshots
+
+### 🔐 First Authentication
+![First Authentication](docs/first_auth.png)
+
+### ➕ Add Credentials
+![Add Credentials](docs/add_credentials.png)
+
+### 📂 View Stored Credentials
+![Show Credentials](docs/show_credentials.png)
+
+### 🌐 Add a Link
+![Add Link](docs/add_link.png)
+
+### 🔗 View Links
+![Show Links](docs/show_links.png)
+
+---
+
 ## 🧠 Author
 
 Created with ❤️, caffeine, and mild frustration at closed systems.  
